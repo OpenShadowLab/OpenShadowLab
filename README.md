@@ -6,11 +6,11 @@ I'm passionate about technology and engineering, especially where they intersect
 
 ## 👀 Interests
 
-I'm a **Software Engineer** focused on the Apple ecosystem. I build native apps for **macOS**, **iOS/iPadOS**, and **watchOS** using **Swift** and **SwiftUI**. I also occasionally use **C++**, which I find enjoyable, though I'm still deepening my skills with it.
+I'm a **Software Engineer** focused on the web. I enjoy building **Open Source** soulution and but also **SaS** that solve people's problèms. I also occasionally use **C++**, which I find enjoyable, though I'm still deepening my skills with it.
 
-Outside of work, I enjoy experimenting with **IoT devices**, exploring new areas of **software engineering**, and learning about everything from **AI and AR/VR** to **mobile and systems-level development**.
+Outside of work, I enjoy experimenting with **IoT devices**, exploring new areas of **software engineering**, and learning about everything from **AI and AR/VR** to **Networking**.
 
-What drives me is creating tools and apps that are *fun to use* and *fun to build*. I love working within the Apple ecosystem because of its seamless integration of hardware and software, but ultimately, it's the process of learning and creating that excites me most.
+What drives me is creating tools and apps that are *fun to use* and *fun to build*. 
 
 ---
 
